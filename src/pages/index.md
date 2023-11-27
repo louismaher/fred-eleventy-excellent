@@ -1,7 +1,7 @@
 ---
 permalink: /index.html
-title: ' Salut Johnny'
-description: 'Site de l'auteur-compositeur Fred Maher.'
+title: 'Salut Johnny'
+description: "Site de l'auteur-compositeur Fred Maher"
 layout: 'home'
 blog:
   title: 'Blog'
