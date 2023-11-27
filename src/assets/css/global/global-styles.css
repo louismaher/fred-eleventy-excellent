@@ -17,6 +17,10 @@ body {
 
 main {
   flex: auto;
+  background-image: url('/assets/images/salut-johnny.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 60% auto;
 }
 
 /* Base typesetting */
