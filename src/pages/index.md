@@ -1,7 +1,7 @@
 ---
 permalink: /index.html
 title: ' Salut Johnny'
-description: 'Eleventy starter using modern CSS, fluid type, fluid spacing, flexible layout and progressive enhancement.'
+description: 'Site de l'auteur-compositeur Fred Maher.'
 layout: 'home'
 blog:
   title: 'Blog'
