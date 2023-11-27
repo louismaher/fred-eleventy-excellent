@@ -1,6 +1,6 @@
 ---
 permalink: /index.html
-title: ' Eleventy Excellent'
+title: ' Salut Johnny'
 description: 'Eleventy starter using modern CSS, fluid type, fluid spacing, flexible layout and progressive enhancement.'
 layout: 'home'
 blog:
