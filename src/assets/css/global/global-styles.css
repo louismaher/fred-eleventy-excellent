@@ -31,7 +31,6 @@ h3 {
   line-height: 1;
   letter-spacing: var(--tracking-s);
   font-family: var(--font-display);
-  text-decoration: underline #82bbc9;
   color: var(--color-dark);
 }
 
@@ -43,10 +42,12 @@ h2 {
   font-size: var(--size-step-4);
   display: inline; 
   display: inline-block;
+  text-decoration: underline #82bbc9;
 }
 
 h3 {
   font-size: var(--size-step-3);
+  color: var(--color-light);
 }
 
 /* Set line lengths */
@@ -54,6 +55,8 @@ p,
 li,
 blockquote:not([class]) {
   max-inline-size: 50ch;
+  color:#fff;
+  text-shadow: 4px 4px rgb(0, 0, 0, 0.7);
 }
 
 h1,
