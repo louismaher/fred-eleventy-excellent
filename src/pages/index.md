@@ -20,7 +20,7 @@ This way we can shape frontends that look good to everyone, regardless of device
 ### Rivière-du-Loup 
 <audio controls>
   <source src="horse.ogg" type="audio/ogg">
-  <source src="/assets/mp3/riviere-du-loup.mp3" type="audio/mpeg">
+  <source src="https://fred-eleventy-excellent.netlify.app/src/assets/mp3/riviere-du-loup.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
