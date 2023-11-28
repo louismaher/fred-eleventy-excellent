@@ -5,7 +5,7 @@
   project: https://cube.fyi/css.html
 */
 body {
-  color: var(--color-dark);
+  color: var(--color-light);
   background-color: var(--color-light);
   font-size: var(--size-step-1);
   font-family: var(--font-base);
@@ -38,6 +38,10 @@ h1 {
 
 h2 {
   font-size: var(--size-step-4);
+  text-decoration: underline overline #82bbc9;
+  background-color: red;
+  display: inline; 
+  display: inline-block;
 }
 
 h3 {
