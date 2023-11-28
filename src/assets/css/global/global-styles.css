@@ -5,7 +5,7 @@
   project: https://cube.fyi/css.html
 */
 body {
-  color: var(--color-light);
+  color: var(--color-dark);
   background-color: var(--color-light);
   font-size: var(--size-step-1);
   font-family: var(--font-base);
@@ -13,10 +13,11 @@ body {
   letter-spacing: var(--tracking);
   display: flex;
   flex-direction: column;
-  background-image: url('/assets/images/salut-johnny.png');
+  background-image: url('/assets/images/salut-johnny-crop.webp');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
+  opacity: 0.9;
 }
 
 main {
@@ -30,6 +31,8 @@ h3 {
   line-height: 1;
   letter-spacing: var(--tracking-s);
   font-family: var(--font-display);
+  text-decoration: underline #82bbc9;
+  color: var(--color-dark);
 }
 
 h1 {
@@ -38,8 +41,6 @@ h1 {
 
 h2 {
   font-size: var(--size-step-4);
-  text-decoration: underline overline #82bbc9;
-  background-color: red;
   display: inline; 
   display: inline-block;
 }
