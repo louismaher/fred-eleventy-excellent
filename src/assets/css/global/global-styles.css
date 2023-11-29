@@ -13,11 +13,11 @@ body {
   letter-spacing: var(--tracking);
   display: flex;
   flex-direction: column;
-  /*background-image: url('/assets/images/salut-johnny-crop.webp');
+  background-image: url('/assets/images/salut-johnny-crop.webp');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  opacity: 0.9;*/
+  opacity: 0.9;
 }
 
 main {
@@ -47,7 +47,7 @@ h2 {
 
 h3 {
   font-size: var(--size-step-3);
-  color: var(--color-light);
+  color: #fff;
 }
 
 /* Set line lengths */
@@ -55,7 +55,7 @@ p,
 li,
 blockquote:not([class]) {
   max-inline-size: 50ch;
-  color:#fff;
+  color:var(--color-Light Glare);
 }
 
 h1,
