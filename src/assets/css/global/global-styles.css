@@ -13,11 +13,11 @@ body {
   letter-spacing: var(--tracking);
   display: flex;
   flex-direction: column;
-  background-image: url('/assets/images/salut-johnny-crop.webp');
+  /*background-image: url('/assets/images/salut-johnny-crop.webp');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  opacity: 0.9;
+  opacity: 0.9;*/
 }
 
 main {
