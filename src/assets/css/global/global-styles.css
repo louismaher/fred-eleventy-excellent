@@ -42,7 +42,6 @@ h2 {
   font-size: var(--size-step-4);
   display: inline; 
   display: inline-block;
-  text-decoration: underline #82bbc9;
 }
 
 h3 {

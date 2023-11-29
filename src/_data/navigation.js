@@ -1,8 +1,8 @@
 module.exports = {
   top: [
     {
-      text: 'About',
-      url: '/about/'
+      text: "J'attends l'printemps",
+      url: 'https://fredmahermusique.com/'
     },
     {
       text: 'Get started',
@@ -13,7 +13,7 @@ module.exports = {
       url: '/built-with/'
     },
     {
-      text: 'Blog',
+      text: 'Contact',
       url: '/blog/'
     }
   ],
