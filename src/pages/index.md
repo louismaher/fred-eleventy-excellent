@@ -17,13 +17,12 @@ In his words, it's about hinting the browser rather than micromanaging it, using
 
 This way we can shape frontends that look good to everyone, regardless of device, connection speed or context.#}
 
-### Rivière-du-Loup 
+### Ton p'tit salon 
 <audio controls>
-<source src="https://fredmahermusique.bandcamp.com/track/jattends-lprintemps.mp3" type="audio/mpeg">
-  <source src="horse.ogg" type="audio/ogg">
+  <source src="https://fred-eleventy-excellent.netlify.app/src/assets/mp3/riviere-du-loup.ogg" type="audio/ogg">
+  <source src="https://fred-eleventy-excellent.netlify.app/src/assets/mp3/riviere-du-loup.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
-
 
 Stationné devant chez-toi, 
 je te vois par la fenêtre,
