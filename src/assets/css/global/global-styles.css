@@ -56,8 +56,6 @@ blockquote:not([class]) {
   color:var(--color-Light Glare);
 }
 
-p {font-weight:400}
-
 h1,
 h2,
 h3 {
@@ -87,7 +85,7 @@ svg {
 }
 
 [role='list'] {
-  padding: 0;
+  padding:0px ;
 }
 
 /* Base interactive elements */

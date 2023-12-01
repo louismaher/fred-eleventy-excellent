@@ -1,19 +1,16 @@
 module.exports = {
   top: [
+    
     {
-      text: "J'attends l'printemps",
-      url: 'https://fredmahermusique.com/'
+      text: 'Bandcamp',
+      url: 'https://fredmahermusique.bandcamp.com/'
     },
     {
-      text: 'Get started',
-      url: '/get-started/'
+      text: 'Youtube',
+      url: 'https://www.youtube.com/@fredmaher1201/videos'
     },
     {
-      text: 'Built with',
-      url: '/built-with/'
-    },
-    {
-      text: 'Contact',
+      text: 'frre@gmail.com',
       url: '/blog/'
     }
   ],
