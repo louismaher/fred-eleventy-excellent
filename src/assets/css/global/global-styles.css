@@ -6,6 +6,7 @@
 */
 body {
   color: var(--color-primary);
+
   background-color: var(--color-light);
   font-size: var(--size-step-1);
   font-family: var(--font-base);
@@ -91,7 +92,7 @@ svg {
 /* Base interactive elements */
 
 a {
-  color: currentcolor;
+  color: var(--color-light);
 }
 
 a:hover {
