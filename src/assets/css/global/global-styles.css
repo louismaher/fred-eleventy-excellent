@@ -36,9 +36,6 @@ h3 {
 
 h1 {
   font-size: var(--size-step-5);
-  /*transform: rotate(-2deg);
-  text-decoration: underline;
-  text-decoration-thickness: 8px;*/
 }
 
 h2 {
