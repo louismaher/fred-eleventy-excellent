@@ -7,7 +7,7 @@ module.exports = {
     },
     {
       text: 'Youtube',
-      url: 'https://www.youtube.com/@fredmaher1201/videos'
+      url: 'https://www.youtube.com/@fredmaher1201/playlists'
     },
     {
       text: '@gmail.com',
@@ -21,7 +21,7 @@ module.exports = {
     },
     {
       text: 'Youtube',
-      url: 'https://www.youtube.com/@fredmaher1201/videos'
+      url: 'https://www.youtube.com/@fredmaher1201/playlists'
     },
     {
       text: '@gmail.com',
