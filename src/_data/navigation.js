@@ -10,18 +10,22 @@ module.exports = {
       url: 'https://www.youtube.com/@fredmaher1201/videos'
     },
     {
-      text: 'frre@gmail.com',
+      text: '@gmail.com',
       url: '/blog/'
     }
   ],
   bottom: [
     {
-      text: 'Imprint',
-      url: '/imprint/'
+      text: 'Bandcamp',
+      url: 'https://fredmahermusique.bandcamp.com/'
     },
     {
-      text: 'Privacy',
-      url: '/privacy/'
+      text: 'Youtube',
+      url: 'https://www.youtube.com/@fredmaher1201/videos'
+    },
+    {
+      text: '@gmail.com',
+      url: '/blog/'
     }
   ]
 };
