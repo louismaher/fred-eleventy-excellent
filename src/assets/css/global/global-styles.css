@@ -36,6 +36,9 @@ h3 {
 
 h1 {
   font-size: var(--size-step-5);
+  /*transform: rotate(-2deg);
+  text-decoration: underline;
+  text-decoration-thickness: 8px;*/
 }
 
 h2 {
@@ -141,4 +144,18 @@ article
 
 .preload-transitions * {
   transition: none !important;
+}
+
+iframe {
+  transform: rotate(-2deg);
+}
+
+.pochette{
+  transform: rotate(-2deg);
+  border:8px solid #ffffff;
+  marging-top:80px;
+}
+.printemps{
+  transform: rotate(-0deg);
+  border:4px solid #ffffff;
 }
