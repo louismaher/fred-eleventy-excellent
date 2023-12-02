@@ -168,3 +168,5 @@ font-family: courier;
 background-color: rgba(77, 69, 69, 0.3);
 padding: 12px;
 transform: rotate(-2deg);}
+
+svg {color:#ffffff}
