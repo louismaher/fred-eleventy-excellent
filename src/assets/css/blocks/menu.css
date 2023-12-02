@@ -102,6 +102,7 @@ nav.navbar span {
   font-weight: bold;
   text-transform: uppercase;
   padding-inline-end: var(--space-2xs);
+  color: var(--color-light);
 }
 
 nav.navbar svg {

@@ -1,7 +1,7 @@
 .button {
-  color: var(--button-text, var(--color-dark));
+  color: var(--button-text, var(--color-light));
   background-color: var(--button-bg, var(--color-light));
-  border: 2px solid var(--button-border, var(--color-dark));
+  border: 2px solid var(--button-border, var(--color-light));
   border-radius: var(--border-radius);
   display: inline-block;
   font: inherit;
@@ -14,7 +14,7 @@
 }
 
 .button:hover {
-  --button-bg: var(--color-dark);
+  --button-bg: var(--color-light);
   --button-text: var(--color-light);
-  --button-border: var(--color-dark);
+  --button-border: var(--color-light);
 }
