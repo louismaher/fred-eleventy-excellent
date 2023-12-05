@@ -11,7 +11,7 @@ module.exports = {
     },
     {
       text: '@gmail.com',
-      url: '<a href="mailto:fredmahermusique@gmail.com"></a>'
+      url: 'mailto:fredmahermusique@gmail.com'
     }
   ],
   bottom: [
@@ -25,7 +25,7 @@ module.exports = {
     },
     {
       text: '@gmail.com',
-      url: '<a href="mailto:fredmahermusique@gmail.com"></a>'
+      url: 'mailto:fredmahermusique@gmail.com'
     }
   ]
 };
