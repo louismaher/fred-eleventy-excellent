@@ -6,7 +6,6 @@
 */
 body {
   color: var(--color-primary);
-  text-shadow:1px 1px 1px #4e63b9;
   background-color: var(--color-light);
   font-size: var(--size-step-1);
   font-family: var(--font-base);
@@ -36,6 +35,7 @@ h3 {
 
 h1 {
   font-size: var(--size-step-5);
+  text-shadow:1px 1px 1px #4e63b9;
 }
 
 h2 {
@@ -169,4 +169,50 @@ background-color: rgba(77, 69, 69, 0.3);
 padding: 12px;
 transform: rotate(-2deg);}
 
-svg {color:#ffffff}
+p.parution-salut-johnny{
+  transform: rotate(-2deg);
+  color:var(--color-dark);
+  margin:0px;
+  padding: 0px;
+  text-align: center;
+  width:350px;
+  position: relative;
+  top: -0.3em;
+left: 0.3em;
+}
+
+p.parution-salut-johnny span{
+padding:2px 16px;
+color: #fff;
+color:var(--color-dark);
+font-weight:700;
+font-family: 'Courier New', Courier, monospace;
+width:350px;
+font-size: 20px;
+background-color: #FEF8E8;
+}
+
+
+.parution-j-attends-l-printemps {
+  color: #ffffff;
+  font-size: var(--size-step-1);
+  font-family: 'Courier New', Courier, monospace;
+  padding: 8px;
+  display: block;
+  position: relative;
+  width:250px;
+  text-align: center;
+top: -2em;
+right:0px;
+  }
+  p.parution-j-attends-l-printemps span{
+    padding:1px 12px;
+    color: #fff;
+    color: #8FA236;
+    font-weight:700;
+    font-family: 'Courier New', Courier, monospace;
+    width:250px;
+    text-align: center;
+    font-size: 18px;
+    background-color: #FEF8E8;
+    }
