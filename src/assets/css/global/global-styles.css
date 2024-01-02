@@ -183,8 +183,7 @@ left: 0.3em;
 
 p.parution-salut-johnny span{
 padding:2px 16px;
-color: #fff;
-color:var(--color-dark);
+color:#3B7487;
 font-weight:700;
 font-family: 'Courier New', Courier, monospace;
 width:350px;
@@ -208,7 +207,7 @@ right:0px;
   p.parution-j-attends-l-printemps span{
     padding:1px 12px;
     color: #fff;
-    color: #8FA236;
+    color: #687728;
     font-weight:700;
     font-family: 'Courier New', Courier, monospace;
     width:250px;
