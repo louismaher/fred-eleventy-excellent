@@ -26,9 +26,5 @@ preloads:
 </article>
 <article class="region">
   <div class="wrapper flow">
-    {{ content | safe }}
-   <iframe  class="printemps" title="J'attends l'printemps" style="width: 250px; height: 250px;" src="https://bandcamp.com/EmbeddedPlayer/album=1979870981/size=large/bgcol=ffffff/linkcol=63b2cc/minimal=true/transparent=true/" seamless><a href="https://fredmahermusique.bandcamp.com/album/jattends-lprintemps" loading="lazy">J&#39;attends l&#39;printemps by Fred Maher</a></iframe>
-   <p class="parution-j-attends-l-printemps"><a href="https://fredmahermusique.bandcamp.com/album/jattends-lprintemps" target="blank"><span>Album juin 2020</span></a></p>
-  </div>
-</article>
-
+    Test
+</div>
