@@ -28,3 +28,4 @@ preloads:
   <div class="wrapper flow">
     Test 2
 </div>
+</article>
