@@ -24,8 +24,5 @@ preloads:
    <p class="parution-j-attends-l-printemps"><a href="https://fredmahermusique.bandcamp.com/album/jattends-lprintemps" target="blank"><span>Album juin 2020</span></a></p>
   </div>
 </article>
-<article class="region">
-  <div class="wrapper flow">
-    Test 2
-</div>
-</article>
+<br>
+
