@@ -1,5 +1,5 @@
 ---
-title: Salut Johny
+title: Salut Johnny
 permalink: /index.html
 description: Websites built with this starter
 layout: page
