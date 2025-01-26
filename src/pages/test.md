@@ -1,6 +1,6 @@
 ---
 title: Salut Johnny
-permalink: /index.html
+permalink: /test.html
 description: Websites built with this starter
 layout: page
 preloads:
