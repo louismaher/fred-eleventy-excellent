@@ -1,7 +1,7 @@
 ---
 title: Salut Johnny
 permalink: /index.html
-description: Websites built with this starter
+description: Fred Maher Musique
 layout: page
 preloads:
   href: '/assets/fonts/robotomono/robotomono-variablefont_wght-webfont.woff2'
