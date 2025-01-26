@@ -1,5 +1,5 @@
 ---
-title: Salut Johnn
+title: Salut Johnny
 permalink: /index.html
 description: Fred Maher Musique
 layout: page
