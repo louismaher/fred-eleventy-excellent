@@ -1,5 +1,5 @@
 ---
-title: Salut Johnny
+title: Sur la montagne
 permalink: /test.html
 description: Websites built with this starter
 layout: page
@@ -12,7 +12,7 @@ preloads:
 
 <br>
 <div class="container">
-<iframe title="Sur la montagne" style="width: 350px; height: 350px;" src="https://bandcamp.com/EmbeddedPlayer/album=3361156341/size=large/bgcol=ffffff/linkcol=63b2cc/minimal=true/transparent=true/" seamless><a href="https://fredmahermusique.bandcamp.com/album/salut-johnny" loading="lazy">J&#39;attends l&#39;printemps by Fred Maher</a></iframe>
+<iframe title="Salut Johnny" style="width: 350px; height: 350px;" src="https://bandcamp.com/EmbeddedPlayer/album=3361156341/size=large/bgcol=ffffff/linkcol=63b2cc/minimal=true/transparent=true/" seamless><a href="https://fredmahermusique.bandcamp.com/album/salut-johnny" loading="lazy">J&#39;attends l&#39;printemps by Fred Maher</a></iframe>
 <p class="parution-salut-johnny"><a href="https://fredmahermusique.bandcamp.com/album/salut-johnny" target="blank"><span>Album décembre 2023</span></a></p>
 </div>
 
