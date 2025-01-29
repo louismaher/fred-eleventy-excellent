@@ -33,7 +33,7 @@ module.exports = {
     {
       text: '@gmail.com',
       url: 'mailto:fredmahermusique@gmail.com'
-    },
-    
+    }
+
   ]
 };
