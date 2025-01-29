@@ -13,10 +13,11 @@ body {
   letter-spacing: var(--tracking);
   display: flex;
   flex-direction: column;
-  background-image: url('/assets/images/pochette-surlamontagne.png');
+  background-color: #ffffff;
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
+  
 }
 
 main {
