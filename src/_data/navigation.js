@@ -29,9 +29,11 @@ module.exports = {
       text: 'Youtube',
       url: 'https://www.youtube.com/@fredmaher1201/playlists'
     },
+
     {
       text: '@gmail.com',
       url: 'mailto:fredmahermusique@gmail.com'
-    }
+    },
+    
   ]
 };
