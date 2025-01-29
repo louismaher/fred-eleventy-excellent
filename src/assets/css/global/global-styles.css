@@ -15,7 +15,7 @@ body {
   flex-direction: column;
   background-image: url('/assets/images/titre.png');
   background-repeat: no-repeat;
-  background-position: center;
+  background-position: top;
   background-size: contain;
   background-color: #1193C1;
 }
