@@ -13,11 +13,11 @@ body {
   letter-spacing: var(--tracking);
   display: flex;
   flex-direction: column;
-  background-color: #ffffff;
+  background-image: url('/assets/images/titre.png');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  
+  background-color: #1193C1;
 }
 
 main {
