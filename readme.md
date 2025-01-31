@@ -1,5 +1,17 @@
-# Eleventy Excellent
 
+# Server pour Louis
+louismaher@penguin:~/fred-eleventy-excellent$ nvm install --lts 
+Installing latest LTS version.
+v22.13.1 is already installed.
+Now using node v22.13.1 (npm v10.9.2)
+louismaher@penguin:~/fred-eleventy-excellent$ npm start
+
+> eleventy-excellent@1.6.2 start
+> run-p dev:*
+
+# Eleventy Excellent
+> eleventy-excellent@1.6.2 dev:11ty
+> eleventy --serve --watch
 Easy to use Eleventy starter, based on the workflow suggested by Andy Bell's [buildexcellentwebsit.es](https://buildexcellentwebsit.es/).
 
 If you end up using this starter, feel free to send me a link, I'd love to see it!
