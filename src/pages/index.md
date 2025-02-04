@@ -19,7 +19,7 @@ preloads:
 </iframe>
 </article>
 
-<article class="region2">
+<article class="region">
 
     {{ content | safe }}
     
@@ -32,5 +32,5 @@ preloads:
     
    
 </article>
-<br>
+</container>
 
