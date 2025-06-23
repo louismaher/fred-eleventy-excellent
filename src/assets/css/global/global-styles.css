@@ -264,7 +264,7 @@ right:0px;
   }
 
   details {border:0;color:#fff;font-size:18px;font-style:italic;}
-  details {border:0;font-size:18px;font-style:italic}
+  details open {border:0;}
   details span {font-style:normal;padding-left:8px}
 
   details p {margin:1em 0}
