@@ -109,7 +109,7 @@ a:hover {
 }
 
 :focus {
-  outline: 3px solid;
+  outline: 0px solid;
   outline-offset: 0.3ch;
 }
 
@@ -120,6 +120,11 @@ a:hover {
 main:focus {
   outline: none;
 }
+
+details:focus {
+  outline: none;
+}
+
 
 article [href^='http']:not([href*='eleventy-excellent.netlify.app']) {
   padding-inline-end: 0.8em;
@@ -262,10 +267,9 @@ right:0px;
   justify-content: center;
   align-items: center;
   }
-
   details {border:0;color:#fff;font-size:18px;font-style:italic;}
-  details open {border:0;}
   details span {font-style:normal;padding-left:8px}
-
   details p {margin:1em 0}
-  summary {margin:0}
+
+
+  
