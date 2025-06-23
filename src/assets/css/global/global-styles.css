@@ -262,3 +262,10 @@ right:0px;
   justify-content: center;
   align-items: center;
   }
+
+  details {border:0;color:#fff;font-size:18px;font-style:italic;}
+  details {border:0;font-size:18px;font-style:italic}
+  details span {font-style:normal;padding-left:8px}
+
+  details p {margin:1em 0}
+  summary {margin:0}
