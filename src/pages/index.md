@@ -24,7 +24,7 @@ preloads:
   <p style="margin:0">de partir en road trip l’été! Good job!<span>👍</span></p>
 <p>- J’ai écouté ton album en me levant ce matin et il m’a fait me sentir bien. Ce qui, dans le contexte actuel, est un exploit, non?<span>😉</span><br>
 J’aime beaucoup la formule des très courtes chansons qui forment, en quelque sorte, comme un album de polaroids, sans artifices.</br>
-« Baissez les f’nêtres » m’a bien fait fire...Merci!<br>
+« Baissez les f’nêtres » m’a bien fait rire...Merci!<br>
 Bravo et bonne continuité!</p>
 <p>- Bravo mon chéri!!!<br>
 J'adore la chanson en mon honneur (tu m'fais du bien), t'aurais pas dû!</p>
