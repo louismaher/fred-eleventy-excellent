@@ -56,7 +56,6 @@ PS j’adore Baissez les fenêtres</p>
 <p>- Beau travail Fred. Ça te ressemble. J’aime beaucoup.</p>
 <p>- Merci Fred!<br>
 Chouettes tes chansons. Je crois que tu t'es bien amusé et a eu du plaisir à faire cela. C'est ce qui compte au final!</p>
-<p><img src="/assets/images/manon.gif" alt=""></p>
 <p>- Allô Fred! Je viens d’arriver à Ste-Anne-des-Monts, et tantôt en partant de Matane on a mis ton album ( ça ne s’invente pas la coïncidence ). J’adore le côté funky, les guitares <span>🎸 </span>et tout. Tu t’es amusé, ça s’entend. Bravo<span>😊</span></p>
 <p>- Bonjour mon beau,<br>
 Ben bravo! J’adore ça! Richard Soly me disait toujours: “ quand ton pied se met à taper le sol...c’est que tu aimes ça! Ben c’est ça qui est arrivé. J’aime beaucoup la toune 1 et la 3, la guitare dans la 3 est excellente.<br>
