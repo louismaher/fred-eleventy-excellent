@@ -10,7 +10,6 @@ preloads:
   crossorigin: true
 ---
 
-
 <div class="container">
 <article class="region">
 
@@ -20,7 +19,7 @@ preloads:
 </article>
 
 <details>
-  <summary>Wow! C’est super bon!!!&nbsp;&nbsp;Ça donne le goût de...</summary>
+  <summary>Wow! C’est super bon!!!&nbsp;&nbsp;Ça donne le goût...</summary>
   <p style="margin:0">de partir en road trip l’été! Good job!<span>👍</span></p>
 <p>- J’ai écouté ton album en me levant ce matin et il m’a fait me sentir bien. Ce qui, dans le contexte actuel, est un exploit, non?<span>😉</span><br>
 J’aime beaucoup la formule des très courtes chansons qui forment, en quelque sorte, comme un album de polaroids, sans artifices.</br>
@@ -41,7 +40,7 @@ Vraiment cool!</p>
 Belle progéniture, ton petit dernier. Y’a de l’amour dans l’air je pense ? <span>❤️</span> les textes sont très beaux et l’harmonie aussi! Bravo et merci de nous avoir partagé!</p>
 <p>- Bonjour Fred.<br>
 Dans ton dernier né, la première et la dernière chanson m’inspirent. Tu as toute mon admiration.</p>
-<p>- Bravo et FÉLICITATIONS pour ton 3ième 'enfant'... il n'a pas beaucoup de différence d'âge d'avec l'autre... nous le trouvons plus enjoué et musicalement il y des sonorités et rythmes qui invitent à la danse! Ta voix reste toujours aussi douce, agréable à l'oreille et avec des paroles bien senties! Je l'ajoute précieusement aux autres!</p>
+<p>- Bravo et FÉLICITATIONS pour ton 3ième 'enfant'... il n'a pas beaucoup de différence d'âge d'avec l'autre... nous le trouvons plus enjoué et musicalement il y a des sonorités et rythmes qui invitent à la danse! Ta voix reste toujours aussi douce, agréable à l'oreille et avec des paroles bien senties! Je l'ajoute précieusement aux autres!</p>
 <p>- cool! j'aime beaucoup! Merci!&nbsp; :)</p>
 <p>- <span>💙</span> Ça « grooove »</p>
 <p>- Bravo Fred et al .. Belle production aussi.. Félicitations<br>
@@ -69,11 +68,10 @@ J'adore le côté feel good des chansons! Ça te va bien<span>😊</span><span>�
 <p>- Tes nouvelles tounes sont vraiment chouettes<span>👏</span><span>👏</span><span>👏</span> Bravo encore !</p>
 </details>
 
-
 <article class="region">
 
     {{ content | safe }}
-    
+
    <div class="display-table">
     <div>
         <iframe title="Salut Johnny" style="width:100%; height:250px" src="https://bandcamp.com/EmbeddedPlayer/album=3361156341/size=large/bgcol=ffffff/linkcol=63b2cc/minimal=true/transparent=false/" seamless><a href="https://fredmahermusique.bandcamp.com/album/salut-johnny" loading="lazy">J&#39;attends l&#39;printemps by Fred Maher</a></iframe>
@@ -84,4 +82,3 @@ J'adore le côté feel good des chansons! Ça te va bien<span>😊</span><span>�
    
 </article>
 </container>
-
