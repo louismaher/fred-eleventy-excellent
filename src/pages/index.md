@@ -78,8 +78,8 @@ J'adore le côté feel good des chansons! Ça te va bien<span>😊</span><span>�
 <p class="parution-salut-johnny"><a href="https://fredmahermusique.bandcamp.com/album/salut-johnny" target="blank"><span>Album décembre 2023</span></a></p></div>
         <div><iframe  class="printemps" title="J'attends l'printemps" style="width:100%; height:250px" src="https://bandcamp.com/EmbeddedPlayer/album=1979870981/size=large/bgcol=ffffff/linkcol=63b2cc/minimal=true/transparent=true/" seamless><a href="https://fredmahermusique.bandcamp.com/album/jattends-lprintemps" loading="lazy">J&#39;attends l&#39;printemps by Fred Maher</a></iframe>
    <p class="parution-j-attends-l-printemps"><a href="https://fredmahermusique.bandcamp.com/album/jattends-lprintemps" target="blank"><span>Album juin 2020</span></a></p></div>
-   <div><iframe  class="printemps" title="Nouvelle-Angleterre" style="width:100%; height:250px" src="https://bandcamp.com/EmbeddedPlayer/album=1979870981/size=large/bgcol=ffffff/linkcol=63b2cc/minimal=true/transparent=true/" seamless><a href="https://fredmahermusique.bandcamp.com/album/jattends-lprintemps" loading="lazy">Nouvelle-Angleterre</a></iframe>
-   <p class="parution-j-attends-l-printemps"><a href="https://fredmahermusique.bandcamp.com/album/jattends-lprintemps" target="blank"><span>Bientôt</span></a></p></div>
+   <!--<div><iframe  class="printemps" title="Nouvelle-Angleterre" style="width:100%; height:250px" src="https://bandcamp.com/EmbeddedPlayer/album=1979870981/size=large/bgcol=ffffff/linkcol=63b2cc/minimal=true/transparent=true/" seamless><a href="https://fredmahermusique.bandcamp.com/album/jattends-lprintemps" loading="lazy">Nouvelle-Angleterre</a></iframe>
+   <p class="parution-j-attends-l-printemps"><a href="https://fredmahermusique.bandcamp.com/album/jattends-lprintemps" target="blank"><span>Bientôt</span></a></p></div>-->
     
    
 </article>
