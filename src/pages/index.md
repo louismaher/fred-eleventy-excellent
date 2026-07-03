@@ -66,6 +66,24 @@ Bravo, ça paraît que tu es dans ton élément.</p>
 J'adore le côté feel good des chansons! Ça te va bien<span>😊</span><span>👍</span><span>👍</span><span>👍</span> Plusieurs lignes accrocheuses
 ! <br>Un gros bravo à toi !</p>
 <p>- Tes nouvelles tounes sont vraiment chouettes<span>👏</span><span>👏</span><span>👏</span> Bravo encore !</p>
+<p>- Salut, j’ai écouté tes chansons.
+
+Un gros FÉLICITATIONS!
+
+Tu as des hooks! :-)
+
+C’est très rafraîchissant!
+
+Ça devrait jouer à la radio.
+
+Les paroles sont le fun aussi.
+
+La musique excellente!
+
+Ta voix est très belle.
+
+Tous les albums sont bons et celui avec tes frères aussi.</p>
+
 </details>
 
 <article class="region">
